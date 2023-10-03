@@ -1,0 +1,2 @@
+#include "ViewDetails.h"
+
